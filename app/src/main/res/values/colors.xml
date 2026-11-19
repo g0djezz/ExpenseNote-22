@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Primary App Palette -->
+    <color name="primary">#1E88E5</color>
+    <color name="primary_dark">#1565C0</color>
+    <color name="primary_light">#E3F2FD</color>
+    <color name="accent">#00ACC1</color>
+
+    <!-- Background & Surface -->
+    <color name="bg_main">#F4F6F9</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="card_stroke">#E0E0E0</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+
+    <!-- Category Badge Colors -->
+    <color name="cat_food">#FFF3E0</color>
+    <color name="cat_food_text">#E65100</color>
+    <color name="cat_transport">#E8EAF6</color>
+    <color name="cat_transport_text">#283593</color>
+    <color name="cat_shopping">#FCE4EC</color>
+    <color name="cat_shopping_text">#AD1457</color>
+    <color name="cat_game">#EDE7F6</color>
+    <color name="cat_game_text">#512DA8</color>
+    <color name="cat_other">#E8F5E9</color>
+    <color name="cat_other_text">#2E7D32</color>
+</resources>

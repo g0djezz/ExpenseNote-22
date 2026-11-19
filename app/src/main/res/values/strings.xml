@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">บันทึกค่าใช้จ่าย</string>
+    <string name="title_main">บันทึกรายจ่าย</string>
+    <string name="subtitle_main">จดทุกบาทที่ใช้วันนี้ให้ครบเลยนะ</string>
+    <string name="title_summary">ยอดรวมค่าใช้จ่ายวันนี้</string>
+    <string name="currency_baht">บาท</string>
+    <string name="label_title">ชื่อรายการ / รายละเอียด</string>
+    <string name="hint_title">เช่น ข้าวมันไก่, ค่าน้ำมัน</string>
+    <string name="label_amount">จำนวนเงิน (บาท)</string>
+    <string name="hint_amount">0.00</string>
+    <string name="label_category">หมวดหมู่</string>
+    <string name="btn_save">บันทึกรายการ</string>
+    <string name="btn_clear">ล้างข้อมูล</string>
+    <string name="title_last_item">รายการล่าสุด</string>
+    <string name="title_recent_list">รายการประจำวันนี้</string>
+    <string name="empty_list">ยังไม่มีรายการบันทึกวันนี้</string>
+</resources>
